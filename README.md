@@ -5,4 +5,5 @@ You can basicly select a folder after a successfully connection. Then, upload yo
 ### Dont forget to update sql queries for your json file structure.
 
 Thanks for every support.
-<iframe src="https://giphy.com/embed/TDQOtnWgsBx99cNoyH" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/buymeacoffee-buy-me-a-coffee-support-sticker-TDQOtnWgsBx99cNoyH">via GIPHY</a></p>
+
+[![GIPHY](https://media.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif)](https://buymeacoffee.com/special3543)
