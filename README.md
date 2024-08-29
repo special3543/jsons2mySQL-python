@@ -6,4 +6,4 @@ You can basicly select a folder after a successfully connection. Then, upload yo
 
 Thanks for every support.
 
-[![GIPHY](https://media.giphy.com/media/7kZE0z52Sd9zSESzDA/giphy.gif)](https://buymeacoffee.com/special3543)
+[![GIPHY](https://media.giphy.com/media/RETzc1mj7HpZPuNf3e/giphy.gif)](https://buymeacoffee.com/special3543)
